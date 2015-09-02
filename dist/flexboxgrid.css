@@ -292,7 +292,7 @@
   order: 1;
 }
 
-@media only screen and (min-width: 32em) {
+@media only screen and (min-width: 30em) {
   .container {
     width: 31rem;
   }
@@ -794,7 +794,7 @@
   }
 }
 
-@media only screen and (min-width: 72em) {
+@media only screen and (min-width: 64em) {
   .container {
     width: 65rem;
   }
