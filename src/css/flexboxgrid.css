@@ -3,10 +3,10 @@
   --outer-margin: 0;
   --gutter-compensation: calc((var(--gutter-width) * 0.5) * -1);
   --half-gutter-width: calc((var(--gutter-width) * 0.5));
-  --xs-min: 24;
-  --sm-min: 32;
+  --xs-min: 20;
+  --sm-min: 30;
   --md-min: 48;
-  --lg-min: 72;
+  --lg-min: 64;
   --screen-xs-min: var(--xs-min)em;
   --screen-sm-min: var(--sm-min)em;
   --screen-md-min: var(--md-min)em;
